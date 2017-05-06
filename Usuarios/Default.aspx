@@ -8,7 +8,7 @@
     <title></title>
 </head>
 <body>
-    <form id="form1" runat="server">
+    <form id="form2" runat="server">
     <div>
      <asp:Label ID="Label1" runat="server" Text="Usuario"></asp:Label>
         <asp:TextBox ID="txtUsuarirutoa" runat="server"></asp:TextBox>
